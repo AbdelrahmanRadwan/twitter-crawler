@@ -11,7 +11,7 @@ Note that, the dictionaries are not so accurate, but this will not make big diff
 
 # How it works
 
-It starts a streamer which listens to twitter api and crawl any tweets published including any keywords frmo the proposed ones.
+It starts a streamer which listens to twitter api and crawl any tweets published including any keywords from the proposed ones.
  
 ## Running
 Run this to start crawling, and the crawled stream will be saved in ```tweets_features/tweets.csv```
